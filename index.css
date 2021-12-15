@@ -1,1 +1,5 @@
-
+background {
+  background: url(mountain.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
