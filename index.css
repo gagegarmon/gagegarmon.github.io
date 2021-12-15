@@ -1,5 +1,5 @@
-background {
-  background: url(hentai.jpg);
-  background-repeat: no-repeat;
-  background-size: auto;
+div {
+    background-image:url('hentai.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
 }
